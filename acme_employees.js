@@ -22,12 +22,6 @@ const employees = [
   console.log(findEmployeeByName('moe', employees));//{ id: 1, name: 'moe' }
   spacer('')
 
-const findEmployeeByName = (name, arr) => {
-    for (let i = 0; i < arr.length; i++) {
-        if (arr.name)
-    }
-
-}
 
   
   spacer('findManagerFor Shep Jr.')
